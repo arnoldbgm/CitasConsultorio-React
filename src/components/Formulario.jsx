@@ -132,7 +132,7 @@ const Formulario = ({ setPacientes, pacientes, paciente, setPaciente }) => {
         </div>
         <div className="mb-5">
           <label htmlFor="email" className="block text-gray-700 font-bold">
-            Fecha de Alta
+            Fecha de Ingreso
           </label>
           <input
             id="email"
